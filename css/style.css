@@ -89,3 +89,8 @@ footer {
     text-align: center;
     padding: 20px;
 }
+
+.qr-img {
+    position: relative;
+    display: flex;
+}

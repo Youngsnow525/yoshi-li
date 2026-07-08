@@ -31,6 +31,7 @@ body {
     display: grid;
     grid-template-columns: repeat(2, 2fr);
     background: rgb(237, 185, 153);
+    color: black;
 }
 
 .main-contend-pri {
